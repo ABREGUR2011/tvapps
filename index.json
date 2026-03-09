@@ -1,0 +1,14 @@
+{
+ "apps":[
+  {
+   "name":"IPTV",
+   "icon":"https://raw.githubusercontent.com/usuario/tvapps/main/icons/iptv.png",
+   "apk":"https://raw.githubusercontent.com/usuario/tvapps/main/apks/iptv.apk"
+  },
+  {
+   "name":"Peliculas",
+   "icon":"https://raw.githubusercontent.com/usuario/tvapps/main/icons/peliculas.png",
+   "apk":"https://raw.githubusercontent.com/usuario/tvapps/main/apks/peliculas.apk"
+  }
+ ]
+}
