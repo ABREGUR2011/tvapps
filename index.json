@@ -1,14 +1,14 @@
 {
  "apps":[
   {
-   "name":"IPTV",
-   "icon":"https://raw.githubusercontent.com/usuario/tvapps/main/icons/iptv.png",
-   "apk":"https://raw.githubusercontent.com/usuario/tvapps/main/apks/iptv.apk"
+   "name":"XTV Chino",
+   "icon":"https://github.com/ABREGUR2011/tvapps/blob/main/icons/xtv-c.png",
+   "apk":"https://github.com/ABREGUR2011/tvapps/raw/refs/heads/main/apks/xtv-tvbox-chino.apk"
   },
   {
-   "name":"Peliculas",
-   "icon":"https://raw.githubusercontent.com/usuario/tvapps/main/icons/peliculas.png",
-   "apk":"https://raw.githubusercontent.com/usuario/tvapps/main/apks/peliculas.apk"
+   "name":"XTV Normal",
+   "icon":"https://github.com/ABREGUR2011/tvapps/blob/main/icons/XTV.png",
+   "apk":"https://github.com/ABREGUR2011/tvapps/raw/refs/heads/main/apks/xtv-v1-stable.apk"
   }
  ]
 }
