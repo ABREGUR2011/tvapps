@@ -2,12 +2,12 @@
  "apps":[
   {
    "name":"XTV Chino",
-   "icon":"https://github.com/ABREGUR2011/tvapps/blob/main/icons/xtv-c.png",
+   "icon":"https://github.com/ABREGUR2011/tvapps/blob/e31ee8552a1171068afed27e64c100f48721b49f/icons/Jp.png",
    "apk":"https://github.com/ABREGUR2011/tvapps/raw/refs/heads/main/apks/xtv-tvbox-chino.apk"
   },
   {
    "name":"XTV Normal",
-   "icon":"https://github.com/ABREGUR2011/tvapps/blob/main/icons/XTV.png",
+   "icon":"https://github.com/ABREGUR2011/tvapps/blob/e31ee8552a1171068afed27e64c100f48721b49f/icons/Jp.png",
    "apk":"https://github.com/ABREGUR2011/tvapps/raw/refs/heads/main/apks/xtv-v1-stable.apk"
   }
  ]
